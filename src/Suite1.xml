@@ -5,6 +5,7 @@
     <classes>
       <class name="P1.PrimeOrNot"/>
       <class name="P1.Sorting"/>
+      <class name="P1.TakeScreenshot"/>
    </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
